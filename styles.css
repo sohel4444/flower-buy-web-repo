@@ -55,6 +55,10 @@ img{
     border-image:linear-gradient(#00f,#000) 0 100%;
 
 }
+
+flexible-container-web{
+    background-color: antiquewhite;
+}
 footer{
     text-align: center;
 }
